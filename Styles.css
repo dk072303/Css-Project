@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<title>About Nike</title>
+        <link href="style.css" rel="stylesheet" type="text/css"
+</head>
+<style>
+
+            #header{
+                width: 100%;
+                height: 150px;
+                background-color: skyblue;
+                    }
+            #content{
+                width: 100%;
+                height: 270px;
+                background-color: whitesmoke;
+                    }
+            #footer{
+                width: 100%;
+                height: auto;
+                background-color: royalblue;
+                    }
+            #links{
+                width: 100%;
+                height: 200px;
+                background-color: darkorange;
+                    }
+            .center{
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 50%;
+                height: 100%;
+                    }
+            .button1 {
+                background-color: #353a45;
+                border: none;
+                color: white;
+                padding: 30px 62px;
+                text-align: center;
+                text-decoration: none;
+                text-color: white;
+                display: inline-block;
+                font-size: 16px;
+                -webkit-transition-duration: 0.4s;
+                transition-duration: 0.4s;
+                display: block;
+                width: 30px;
+                height: 10px;
+                float: left;
+                border: 1px solid green;
+                }
+            .button1:hover {
+                background-color: #353a45; /* Green */
+                color: white;
+                }
+            .button2 {
+                background-color: #591a28;
+                border: none;
+                color: white;
+                padding: 30px 62px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                -webkit-transition-duration: 0.4s;
+                transition-duration: 0.4s;
+                display: block;
+                width: 30px;
+                height: 10px;
+                float: left;
+                border: 1px solid green;
+                }
+            .button2:hover {
+                background-color: #591a28;
+                color: white;
+                }
+            .button3 {
+                background-color: #73542d;
+                border: none;
+                color: white;
+                padding: 30px 62px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                -webkit-transition-duration: 0.4s;
+                transition-duration: 0.4s;
+                display: block;
+                width: 30px;
+                height: 10px;
+                float: left;
+                border: 1px solid green;
+                }
+            .button3:hover {
+                background-color: #73542d;
+                color: white;
+                }
+            .button4 {
+                background-color: #918c3f;
+                border: none;
+                color: white;
+                padding: 30px 62px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                -webkit-transition-duration: 0.4s;
+                transition-duration: 0.4s;
+                display: block;
+                width: 30px;
+                height: 10px;
+                float: left;
+                border: 1px solid green;
+                }
+            .button4:hover {
+                background-color: #918c3f;
+                color: white;
+                }
+            .button5 {
+                background-color: #2a58bd;
+                border: none;
+                color: white;
+                padding: 30px 62px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                -webkit-transition-duration: 0.4s;
+                transition-duration: 0.4s;
+                display: block;
+                width: 30px;
+                height: 10px;
+                float: left;
+                border: 1px solid green;
+                }
+            .button5:hover {
+                background-color: #2a58bd;
+                color: white;
+                }
+
+a { color: #FF0000; }
+</style>
+
+
+<body>
+</body>
+</html>
